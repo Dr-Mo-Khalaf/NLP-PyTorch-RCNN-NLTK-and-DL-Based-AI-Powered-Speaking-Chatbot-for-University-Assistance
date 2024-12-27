@@ -1,7 +1,7 @@
 # NLP-PyTorch-RCNN-NLTK-and-DL-Based-AI-Powered-Speaking-Chatbot-for-University-Assistance
 #
 Objective:\
-The goal of this project is to create an interactive speaking chatbot tailored to assist new university students (freshers) with their queries. The chatbot will use Natural Language Processing (NLP) techniques and Deep Learning (DL) to provide accurate, conversational, and context-aware responses. It will integrate speech recognition and text-to-speech capabilities to enable seamless verbal interaction.\ <!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->
+The goal of this project is to lead my data science team in the development of an interactive speaking chatbot designed to assist new university students with their queries. The chatbot will leverage Natural Language Processing (NLP) techniques and Deep Learning (DL) models to deliver accurate, conversational, and context-aware responses, providing a valuable resource for student support and enhancing the overall university experience.\ <!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->
 
 
 # Key Components:
